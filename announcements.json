@@ -2,59 +2,39 @@
     "version": 1,
     "announcements": [
         {
-            "id": "2026-02-21-3",
-            "publishedAt": "2026-02-21T12:42:02Z",
+            "id": "2026-02-23-1",
+            "publishedAt": "2026-02-23T12:48:24Z",
             "meta": {
-                "zh-CN": {
-                    "title": "反馈渠道说明",
-                    "tags": [
-                        "社区"
-                    ]
-                },
                 "en-US": {
-                    "title": "Feedback Channel Guide",
+                    "title": "Launcher v2.0 Released!!!",
                     "tags": [
-                        "community"
-                    ]
-                }
-            }
-        },
-        {
-            "id": "2026-02-21-2",
-            "publishedAt": "2026-02-21T12:41:13Z",
-            "meta": {
-                "zh-CN": {
-                    "title": "下载模块更新提醒",
-                    "tags": [
-                        "下载",
-                        "gog"
-                    ]
-                },
-                "en-US": {
-                    "title": "Download Module Update Notice",
-                    "tags": [
-                        "download",
-                        "gog"
-                    ]
-                }
-            }
-        },
-        {
-            "id": "2026-02-21-1",
-            "publishedAt": "2026-02-21T12:38:57Z",
-            "meta": {
-                "zh-CN": {
-                    "title": "公告系统预览上线",
-                    "tags": [
-                        "启动器",
-                        "公告"
-                    ]
-                },
-                "en-US": {
-                    "title": "Announcement System Preview Is Live",
-                    "tags": [
+                        "⭐",
                         "launcher",
                         "announcement"
+                    ]
+                },
+                "es-ES": {
+                    "title": "Lanzamiento del Launcher v2.0!!!",
+                    "tags": [
+                        "⭐",
+                        "lanzador",
+                        "anuncio"
+                    ]
+                },
+                "ru-RU": {
+                    "title": "Релиз лаунчера v2.0!!!",
+                    "tags": [
+                        "⭐",
+                        "лаунчер",
+                        "анонс"
+                    ]
+                },
+                "zh-CN": {
+                    "title": "启动器 v2.0 发布!!!",
+                    "tags": [
+                        "⭐",
+                        "启动器",
+                        "公告"
                     ]
                 }
             }
