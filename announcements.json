@@ -2,6 +2,44 @@
     "version": 1,
     "announcements": [
         {
+            "id": "2026-02-27-1",
+            "publishedAt": "2026-02-27T09:03:13Z",
+            "meta": {
+                "en-US": {
+                    "title": "Launcher 2.0.1 Minor Update Released!!",
+                    "tags": [
+                        "⭐",
+                        "launcher",
+                        "announcement"
+                    ]
+                },
+                "es-ES": {
+                    "title": "Lanzamiento de la actualización menor 2.0.1 del Launcher!!",
+                    "tags": [
+                        "⭐",
+                        "lanzador",
+                        "anuncio"
+                    ]
+                },
+                "ru-RU": {
+                    "title": "Небольшое обновление лаунчера 2.0.1 вышло!!",
+                    "tags": [
+                        "⭐",
+                        "лаунчер",
+                        "анонс"
+                    ]
+                },
+                "zh-CN": {
+                    "title": "启动器 2.0.1 小更新发布!!",
+                    "tags": [
+                        "⭐",
+                        "启动器",
+                        "公告"
+                    ]
+                }
+            }
+        },
+        {
             "id": "2026-02-23-1",
             "publishedAt": "2026-02-23T12:48:24Z",
             "meta": {
