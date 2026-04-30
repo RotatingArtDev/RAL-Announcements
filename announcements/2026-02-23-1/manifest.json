@@ -1,0 +1,38 @@
+{
+    "id": "2026-02-23-1",
+    "publishedAt": "2026-02-23T12:48:24Z",
+    "meta": {
+        "en-US": {
+            "title": "Launcher v2.0 Released!!!",
+            "tags": [
+                "⭐",
+                "launcher",
+                "announcement"
+            ]
+        },
+        "es-ES": {
+            "title": "Lanzamiento del Launcher v2.0!!!",
+            "tags": [
+                "⭐",
+                "lanzador",
+                "anuncio"
+            ]
+        },
+        "ru-RU": {
+            "title": "Релиз лаунчера v2.0!!!",
+            "tags": [
+                "⭐",
+                "лаунчер",
+                "анонс"
+            ]
+        },
+        "zh-CN": {
+            "title": "启动器 v2.0 发布!!!",
+            "tags": [
+                "⭐",
+                "启动器",
+                "公告"
+            ]
+        }
+    }
+}

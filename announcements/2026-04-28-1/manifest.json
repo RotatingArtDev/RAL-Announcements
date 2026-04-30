@@ -1,0 +1,38 @@
+{
+    "id": "2026-04-28-1",
+    "publishedAt": "2026-04-28T07:44:47Z",
+    "meta": {
+        "en-US": {
+            "title": "Launcher 2.1.1 Update Released!!",
+            "tags": [
+                "⭐",
+                "launcher",
+                "announcement"
+            ]
+        },
+        "es-ES": {
+            "title": "Lanzamiento de la actualización 2.1.1 del Launcher!!",
+            "tags": [
+                "⭐",
+                "lanzador",
+                "anuncio"
+            ]
+        },
+        "ru-RU": {
+            "title": "Вышло обновление лаунчера 2.1.1!!",
+            "tags": [
+                "⭐",
+                "лаунчер",
+                "анонс"
+            ]
+        },
+        "zh-CN": {
+            "title": "启动器 2.1.1 更新发布!!",
+            "tags": [
+                "⭐",
+                "启动器",
+                "公告"
+            ]
+        }
+    }
+}
